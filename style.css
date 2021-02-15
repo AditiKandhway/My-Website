@@ -162,7 +162,7 @@ nav{
 
 .intro p{
     font-size:20px;
-    color:indigo;
+    color:black;
     line-height: 30px;
     outline: 0.2px;
     padding:4px;
@@ -201,7 +201,8 @@ section{
 .section-heading{
     line-height:50px;
     font-weight:900;
-    color:rgb(51, 18, 75);
+    /* color:rgb(51, 18, 75); */
+    color:black;
     text-align:center;
     font-size:40px;
     padding:8px;
@@ -238,7 +239,7 @@ section{
     margin-left:30px;
      margin-bottom:30px;
     border:2px solid black;
-    background-color:rgb(224, 216, 216);
+    background-color:rgb(245, 240, 248);
     box-shadow:0px 0px 4px 6px rgb(122, 120, 120);
     justify-content:space-between;
 }
@@ -246,7 +247,7 @@ section{
 .skills-name span{
     font-family: 'PT Sans', sans-serif;
     font-size:20px;
-    color:midnightblue;
+    color:black;
     line-height:40px;
     letter-spacing:1px;
     margin-top:10px;
@@ -311,12 +312,13 @@ section{
 .design1
 {
     border:2px solid black;
-    background-color:rgb(224, 216, 216);
+    /* background-color:rgb(224, 216, 216); */
+    background-color:rgb(245, 240, 248);
     box-shadow:0px 0px 4px 6px rgb(122, 120, 120);
 }
 .name{
     font-size:33px;
-    color:indigo;
+    color:black;
     font-family: 'PT Sans', sans-serif;
     margin-top:-1px;
 }
@@ -332,7 +334,7 @@ section{
     font-family: 'PT Sans', sans-serif;
     margin-left:15px;
     font-size:18px;
-    color:rgb(58, 8, 94);
+    color:black;
 }
 .margin
 {
@@ -351,7 +353,7 @@ section{
 {
     margin-left:23px;
     font-size:18px;
-    color:indigo;
+    color:black;
     font-family: 'PT Sans', sans-serif;
 }
 
@@ -376,7 +378,7 @@ section{
     margin-top:-10px;
     margin-left:25px;
     font-size:20px;
-    color:indigo;
+    color:black;
     font-family: 'PT Sans', sans-serif;
     letter-spacing:1px;
 }
@@ -456,7 +458,7 @@ section{
     list-style:none;
     font-size:20px;
     font-family: 'PT Sans', sans-serif;
-    color:indigo;
+    color:black;
     letter-spacing:1px;
     line-height:35px;
 }
@@ -487,11 +489,12 @@ section{
     text-decoration:none;
     font-size:20px;
     font-family: 'PT Sans', sans-serif;
+    color:black;
 }
 
 .link span{
     font-size:25px;
-    color:midnightblue;
+    color:black;
 }
 
 .heading1{
@@ -534,20 +537,24 @@ section{
     margin-right:30px;
      margin-bottom:30px;
     border:2px solid black;
-    background-color:rgb(224, 216, 216);
+    background-color:rgb(245, 240, 248);
     box-shadow:0px 0px 4px 6px rgb(122, 120, 120);
     justify-content:space-between;
 }
 
+.interests-name:hover{
+    box-shadow:0px 0px 4px 6px rgb(204, 115, 115);
+}
 .interests-name span{
     font-family: 'PT Sans', sans-serif;
     font-size:20px;
-    color:midnightblue;
+    color:black;
     line-height:35px;
     letter-spacing:1px;
     margin-top:10px;
     margin:8px;
     padding-bottom:4px;
+    text-align:left;
 }
 
 .margin5{
@@ -568,6 +575,7 @@ section{
 
 .fab{
     font-size:60px;
+    color:black;
 }
 
 .fab:hover{
@@ -586,7 +594,7 @@ section{
 
 .mail{
     font-size:25px;
-    color:midnightblue;
+    color:black;
     font-family: 'PT Sans', sans-serif;
     margin-top:-15px;
 }
