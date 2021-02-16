@@ -173,7 +173,7 @@ nav{
 
 .intro:hover{
     border:2px solid black;
-    box-shadow: 0px 0px 4px 6px rgb(233, 175, 175);
+    box-shadow: 0px 0px 4px 6px rgb(221, 166, 166);
 }
 
 section{
@@ -214,7 +214,7 @@ section{
 }
 
 .section-heading:hover{
-    box-shadow:0px 0px 4px 6px rgb(204, 115, 115);
+    box-shadow:0px 0px 4px 6px rgb(221, 166, 166);
 }
 
 .skills-display
@@ -255,7 +255,7 @@ section{
     padding:4px;
 }
 .skills-name:hover{
-    box-shadow:0px 0px 4px 6px rgb(204, 115, 115);
+    box-shadow:0px 0px 4px 6px rgb(221, 166, 166);
 }
 
 #education
@@ -417,7 +417,7 @@ section{
 }
 
 .design1:hover{
-    box-shadow:0px 0px 4px 6px rgb(204, 115, 115);
+    box-shadow:0px 0px 4px 6px rgb(221, 166, 166);
 }
 
 #projects
@@ -543,7 +543,7 @@ section{
 }
 
 .interests-name:hover{
-    box-shadow:0px 0px 4px 6px rgb(204, 115, 115);
+    box-shadow:0px 0px 4px 6px rgb(221, 166, 166);
 }
 .interests-name span{
     font-family: 'PT Sans', sans-serif;
@@ -579,7 +579,7 @@ section{
 }
 
 .fab:hover{
-    box-shadow: 0px 2px 6px 4px rgb(185, 146, 146);
+    box-shadow: 0px 2px 6px 4px rgb(221, 166, 166);
 }
 
 .study2{
