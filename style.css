@@ -504,6 +504,14 @@ section{
     color:black;
 }
 
+.certifi:active{
+    text-decoration: underline;
+    color:rgb(112, 13, 112);
+}
+.certifi:hover{
+    text-decoration: underline;
+    color:rgb(112, 13, 112);
+}
 .link span{
     font-size:25px;
     color:black;
@@ -659,6 +667,9 @@ footer{
     margin-top:-20px;
 }
 
+/* section:target{
+    background-color:rebeccapurple;
+} */
 
 
 
