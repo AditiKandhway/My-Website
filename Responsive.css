@@ -1,0 +1,52 @@
+@media screen and (max-width:1350px)
+{
+    #education{
+        height:1500px;
+    }
+    .details{
+        margin-left:100px;
+    }
+
+    .margin1{
+        margin-left:100px;
+    }
+
+    .margin3{
+        margin-top:100px;
+        /* margin-left:9px; */
+        margin-left:1px;
+    }
+}
+
+@media screen and (max-width:600px)
+{
+    section{
+        width:100%;
+    }
+}
+
+@media screen and (max-width:940px)
+{
+    #interests{
+        display:flex;
+        flex-wrap:wrap;
+    }
+
+    .interests-display{
+        display:flex;
+        flex-wrap:wrap;
+    }
+
+    .margin3{
+        margin-left:100px;
+        margin-top:-5px;
+    }
+}
+
+@media screen and (max-width:830px)
+{
+    #projects{
+        margin-top:50px;
+    }
+}
+
