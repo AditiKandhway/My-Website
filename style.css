@@ -40,7 +40,6 @@ nav{
 {
    display:inline-block;
    margin:0px 56px 56px 0px;
-
 }
 
 .horizontal-list li a{
@@ -159,6 +158,7 @@ nav{
    margin-bottom: 30px;
    background-color:rgb(245, 240, 248);
    padding:4px;
+   text-align: justify;
 }
 
 .intro p{
@@ -685,6 +685,17 @@ footer{
     animation-duration: 2s;
     animation-iteration-count: 2;
 }
+
+.bar{
+    color:rgb(58, 15, 88);
+    display:none;
+}
+
+.dropdown-content{
+    display:none;
+}
+
+
 
 
 
